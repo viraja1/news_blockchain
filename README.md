@@ -4,6 +4,7 @@ News blockchain incentivizes fact checking and quality. It helps to build a cura
 
 ## Link to Ancillary Material
 Pitch Deck: https://docs.google.com/presentation/d/12-48BzSGYHt3msZVZE4iVKukzCOz-Avt-AvBt2sP3yI
+
 Video Demo: https://www.youtube.com/watch?v=wofCeQMtuQw&feature=youtu.be
 
 ## Project Launch Page

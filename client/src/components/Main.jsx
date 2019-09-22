@@ -175,6 +175,15 @@ export default class Main extends Component {
       })
     }
     news.reverse();
+    if (window.ethereum) {
+      window.web3 = new Web3(ethereum);
+      try {
+        // Request account access if needed
+         await ethereum.enable();
+      }catch (error) {
+            // User denied account access...
+      }
+    }
     let account = await web3.eth.getAccounts();
     this.setState({news: news, isLoading: false, account: account[0]});
 

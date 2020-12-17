@@ -8,7 +8,7 @@ Pitch Deck: https://docs.google.com/presentation/d/12-48BzSGYHt3msZVZE4iVKukzCOz
 ## Project Launch Page
 Metamask extension is required to test the app. Change the network to "Binance Smart Chain - Testnet" using metamask for the app to work.
 
-https://newsblockchain.netlify.com
+https://news-blockchain-binance.netlify.app/
 
 ## Screenshots
 

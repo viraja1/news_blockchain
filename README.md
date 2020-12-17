@@ -6,9 +6,9 @@ News blockchain incentivizes fact checking and quality. It helps to build a cura
 Pitch Deck: https://docs.google.com/presentation/d/12-48BzSGYHt3msZVZE4iVKukzCOz-Avt-AvBt2sP3yI
 
 ## Project Launch Page
-Metamask extension is required to test the app. Change the network to "Binance Smart Chain - Testnet" using metamask for the app to work.
+Metamask extension is required to test the app. Change the network to "Matic Testnet" using metamask for the app to work.
 
-https://news-blockchain-binance.netlify.app/
+https://news-blockchain-matic.netlify.app/
 
 ## Screenshots
 
@@ -35,7 +35,7 @@ https://news-blockchain-binance.netlify.app/
    cd news_blockchain
    ```
    
-3) Deploy the smart contract using remix IDE (contracts/Media.sol)
+3) Deploy the smart contract to Matic Testnet using remix IDE (contracts/Media.sol)
    
 4) Update smart contract address
 
@@ -66,9 +66,9 @@ https://news-blockchain-binance.netlify.app/
     
 8) Test the App
 
-    Make sure that you have configured Binance Smart Chain - Testnet using metamask 
-    (https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+    Make sure that you have configured Matic Testnet using metamask 
+    (https://docs.matic.network/docs/develop/metamask/testnet/)
     
-    Faucet: https://testnet.binance.org/faucet-smart
+    Faucet: https://faucet.matic.network/
     
                 
